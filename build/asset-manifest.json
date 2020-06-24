@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/academic-redditer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/academic-redditer/static/js/main.332c9259.chunk.js",
+    "main.js.map": "/academic-redditer/static/js/main.332c9259.chunk.js.map",
+    "runtime-main.js": "/academic-redditer/static/js/runtime-main.f00aba93.js",
+    "runtime-main.js.map": "/academic-redditer/static/js/runtime-main.f00aba93.js.map",
+    "static/js/2.2fff5628.chunk.js": "/academic-redditer/static/js/2.2fff5628.chunk.js",
+    "static/js/2.2fff5628.chunk.js.map": "/academic-redditer/static/js/2.2fff5628.chunk.js.map",
+    "index.html": "/academic-redditer/index.html",
+    "precache-manifest.d3fab87053f711c839f5e1119cfea79c.js": "/academic-redditer/precache-manifest.d3fab87053f711c839f5e1119cfea79c.js",
+    "service-worker.js": "/academic-redditer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/academic-redditer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2fff5628.chunk.js.LICENSE.txt": "/academic-redditer/static/js/2.2fff5628.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f00aba93.js",
+    "static/js/2.2fff5628.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.332c9259.chunk.js"
+  ]
+}
