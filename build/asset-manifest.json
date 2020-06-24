@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/academic-redditer/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/academic-redditer/static/js/main.332c9259.chunk.js",
-    "main.js.map": "/academic-redditer/static/js/main.332c9259.chunk.js.map",
-    "runtime-main.js": "/academic-redditer/static/js/runtime-main.f00aba93.js",
-    "runtime-main.js.map": "/academic-redditer/static/js/runtime-main.f00aba93.js.map",
-    "static/js/2.2fff5628.chunk.js": "/academic-redditer/static/js/2.2fff5628.chunk.js",
-    "static/js/2.2fff5628.chunk.js.map": "/academic-redditer/static/js/2.2fff5628.chunk.js.map",
-    "index.html": "/academic-redditer/index.html",
-    "precache-manifest.d3fab87053f711c839f5e1119cfea79c.js": "/academic-redditer/precache-manifest.d3fab87053f711c839f5e1119cfea79c.js",
-    "service-worker.js": "/academic-redditer/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/academic-redditer/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2fff5628.chunk.js.LICENSE.txt": "/academic-redditer/static/js/2.2fff5628.chunk.js.LICENSE.txt"
+    "main.css": "/academicredditer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/academicredditer/static/js/main.6b1ccb3f.chunk.js",
+    "main.js.map": "/academicredditer/static/js/main.6b1ccb3f.chunk.js.map",
+    "runtime-main.js": "/academicredditer/static/js/runtime-main.0520ee9f.js",
+    "runtime-main.js.map": "/academicredditer/static/js/runtime-main.0520ee9f.js.map",
+    "static/js/2.3b0a76ea.chunk.js": "/academicredditer/static/js/2.3b0a76ea.chunk.js",
+    "static/js/2.3b0a76ea.chunk.js.map": "/academicredditer/static/js/2.3b0a76ea.chunk.js.map",
+    "index.html": "/academicredditer/index.html",
+    "precache-manifest.e6f7c382d6ba8b722524c7ab9512d0dc.js": "/academicredditer/precache-manifest.e6f7c382d6ba8b722524c7ab9512d0dc.js",
+    "service-worker.js": "/academicredditer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/academicredditer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3b0a76ea.chunk.js.LICENSE.txt": "/academicredditer/static/js/2.3b0a76ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f00aba93.js",
-    "static/js/2.2fff5628.chunk.js",
+    "static/js/runtime-main.0520ee9f.js",
+    "static/js/2.3b0a76ea.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.332c9259.chunk.js"
+    "static/js/main.6b1ccb3f.chunk.js"
   ]
 }
